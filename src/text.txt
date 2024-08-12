@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=euYBnQ5MbLM&list=PL7cTIfGFrdKkQAWKDu2NdFt5Cx38B-A3i&pp=iAQB
+
+https://github.com/letscode-dev/react-star-wars
+
+Используемые ресурсы
+› https://nodejs.org/en/
+› https://www.npmjs.com/
+› https://www.flaticon.com/
+› https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
+› https://github.com/JedWatson/classnames
+› https://snippet-generator.app/
+› https://code.visualstudio.com/docs/editor/userdefinedsnippets
+› https://starwars-visualguide.com/
+› https://github.com/timarney/react-app-rewired
+› https://github.com/oklas/react-app-rewire-alias
+
+
+ 
